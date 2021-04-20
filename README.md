@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+IMPORTANT!
+The project in question doesn't have a "node_modules" package, for this you have to enter the following commands after having created the React application:
+$ npm install @tensorflow/tfjs @tensorflow-models/facemesh react-webcam
+
 ## Available Scripts
 
 In the project directory, you can run:
